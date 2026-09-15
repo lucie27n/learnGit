@@ -1,0 +1,7 @@
+ingredients:
+tomate
+oignon
+ail
+poireau
+celeri
+viande hache
